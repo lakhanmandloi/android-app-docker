@@ -100,3 +100,4 @@ WORKDIR app
 EXPOSE 8100 35729
 
 CMD ["ionic", "serve"]
+ 
